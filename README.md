@@ -11,6 +11,8 @@
 
 <img src="https://github.com/AntidusPig/Youtube-P-Solver/assets/56218754/c503cece-327c-42e1-afe7-e54c26d79959" cls="center"/>
 
+<img src="https://github.com/AntidusPig/Youtube-P-Solver/assets/56218754/9b9964fd-cfe5-4985-8131-d6d32f94d597" cls="center"/>
+
 <img src="https://github.com/AntidusPig/Youtube-P-Solver/assets/56218754/cb7a8da2-7922-437c-abf4-9cb8929d98e4" cls="center"/>
 
 </p>
