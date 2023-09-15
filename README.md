@@ -9,17 +9,17 @@
 <img src="https://github.com/AntidusPig/Youtube-P-Solver/assets/56218754/9252fcf0-e739-42da-b19c-5b3abe4569fc" width="500" height="500" cls="center"/>
 </p>
 
-##### Iteration steps of heat equation
+##### Iteration steps of the heat equation
 <p align="center">
 <img src="https://github.com/AntidusPig/Youtube-P-Solver/assets/56218754/230e49b8-8323-486f-9c67-4eb943b08ad2" height="500" cls="center"/>
 </p>
 
-##### Heat equation with some boundary conditions
+##### Solutions to a heat equation with some boundary conditions
 <p align="center">
 <img src="https://github.com/AntidusPig/Youtube-P-Solver/assets/56218754/90161bc3-7aa3-4124-8a25-e8e6ad06a071" height="500" cls="center"/>
 </p>
 
-##### Wavefunctions by 2 methods, eigenstates and probability density
+##### Wavefunctions obtained from 2 methods, eigenstates and probability density
 <p align="center">
 <img src="https://github.com/AntidusPig/Youtube-P-Solver/assets/56218754/ea4ae381-6e3d-46e3-9bfe-91c294277ea6" cls="center"/>
 </p>
